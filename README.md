@@ -12,4 +12,6 @@ The source code of the attacks is in the `attacchi` directory, while the patched
 - `/pox/openflow/discovery_patch_lldpinj.py`
 - `/pox/host_tracker/host_patch.py`
 
+You can find more details about the security choices implemented within the file *relazione.pdf*.
+
 This project was realized for "Network Security" course (in group).
