@@ -14,6 +14,8 @@
 
 # This file is loosely based on the discovery component in NOX.
 
+#THIS IS A MODIFIED FILE. IT WAS NOT PRESENT IN THE ORIGINAL REPOSITORY
+
 """
 This module discovers the connectivity between OpenFlow switches by sending
 out LLDP packets. To be notified of this information, listen to LinkEvents
