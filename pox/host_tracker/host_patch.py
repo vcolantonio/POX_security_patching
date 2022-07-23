@@ -13,6 +13,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+#THIS IS A MODIFIED FILE. IT WAS NOT PRESENT IN THE ORIGINAL REPOSITORY
+
 """
 Tracks host location and configuration
 
